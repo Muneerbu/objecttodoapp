@@ -1,0 +1,60 @@
+.main{
+    margin: 0px auto;
+}
+.main2{
+    margin: 20px;
+}
+.classmain h1{
+    text-align: center;
+    color: red;
+    font-weight: 700;
+    text-transform:uppercase;
+}
+.inp{
+    margin: 2px;
+    padding: 15px 5px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background-color: aqua;
+
+}
+.inputs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.inp-btn{
+    background-color: whitesmoke;
+    color: black;
+    font-size: large;
+    border-radius: 10px;
+    padding: 10px 15px;
+    box-shadow: 2px 2px 5px gray;
+    transition: all .5s ease;
+    border: none;
+    
+}
+.inp-btn:hover{
+    background-color: green;
+    color:white;
+    font-size: larger;
+    box-shadow: 2px 2px 5px gray;
+    border: none;
+}
+.btnd:hover{
+    background-color: red;
+    color: white;
+    
+}
+.one {
+    border-radius: 5px;
+    background-color:red;
+    border: none;
+    color: white;
+
+}
+.two{
+    background-color:gray;
+}
